@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyPlugin-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE4\UE418\Engine\Intermediate\Build\Win64\UE4Editor\Debug\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"F:\UE4\TPDemo\Plugins\MyPlugin\Intermediate\Build\Win64\UE4Editor\Debug\MyPlugin\Module.MyPlugin.cpp.obj"
+"F:\UE4\TPDemo\Plugins\MyPlugin\Intermediate\Build\Win64\UE4Editor\Debug\MyPlugin\Module.MyPlugin.gen.cpp.obj"
+"F:\UE4\UE418\Engine\Intermediate\Build\Win64\UE4Editor\Debug\PCLaunch.rc.res"
+"F:\UE4\UE418\Engine\Intermediate\Build\Win64\UE4Editor\Debug\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\UE4\TPDemo\Plugins\MyPlugin\Intermediate\Build\Win64\UE4Editor\Debug\UE4Editor-MyPlugin-Win64-Debug.lib"

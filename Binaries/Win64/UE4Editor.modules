@@ -1,0 +1,7 @@
+{
+	"BuildId": "594c0c4a-4a6d-44dc-ac16-e0a758512b08",
+	"Modules": 
+	{
+		"MyPlugin": "UE4Editor-MyPlugin.dll"
+	}
+}

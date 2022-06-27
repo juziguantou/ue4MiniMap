@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"F:\UE4\TPDemo\Plugins\MyPlugin\Intermediate\Build\Win64\TPDemo\Development\MyPlugin\Module.MyPlugin.cpp.obj"
+"F:\UE4\TPDemo\Plugins\MyPlugin\Intermediate\Build\Win64\TPDemo\Development\MyPlugin\Module.MyPlugin.gen.cpp.obj"
+"F:\UE4\TPDemo\Intermediate\Build\Win64\TPDemo\Development\MyPlugin\PCLaunch.rc.res"
+/OUT:"F:\UE4\TPDemo\Plugins\MyPlugin\Binaries\Win64\TPDemo-MyPlugin.lib"

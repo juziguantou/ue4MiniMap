@@ -1,0 +1,2 @@
+WorldName,MapPath,MapSize,MapLocation,MapWidgetSize
+ThirdPersonExampleMap,Texture2D'/MyPlugin/UI/Image/MiniMap.MiniMap',"(X=3000,Y=3000)","(X=-399.751465,Y=0)","(X=1000,Y=1000)"
